@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1538632078095" clover="3.2.0">
+  <project timestamp="1538632078095" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="21" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1">
+      <file name="arithmetic.js" path="/Users/haile/codefellows/401/lab_assignments/lab-01/lib/arithmetic.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
