@@ -15,7 +15,7 @@ console.log(math.divide(firstNum,secondNum)); // -2
 
 let numArr = [1,2,3,4,5,6,7,8,9,10]
 console.log(greet('JOHN'));
-console.log(greet(4));
+console.log(greet());
 console.log(math.add(1,3)); // 4
 console.log(math.add(1,3,4,5,6,7)); // 4
 console.log(math.subtract(1,3)); // -2
