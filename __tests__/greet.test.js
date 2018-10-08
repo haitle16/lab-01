@@ -1,6 +1,6 @@
-'use strict'
+'use strict';
 
-const greet = require('../lib/greet.js')
+const greet = require('../lib/greet.js');
 
 describe('greeting test', () =>{
   it('Hello October test!', () => {
@@ -11,4 +11,4 @@ describe('greeting test', () =>{
     let test2 = greet();
     expect(test2).toBeNull();
   });
-})
+});
